@@ -1,0 +1,29 @@
+INFO 2950 Brainstorming
+Names/netids: Daniel Chung (dwc244)
+
+
+Idea 1:
+	
+	Topic:	How much impact does federal reserve's interest rate changes have on asset prices (corporate equities, investment grade bonds, high-yield bonds, mortgage prices)?
+
+	Data:	Asset prices will be collected from different indexes. Interest rate changes (cut or hike) will have to be collected one by one by scrapping the web (very feasible because there have been less than a dozen times during the past two decades). We will also collect data of the VIX (volatility index), which is frequently used to guage the fear of market participants, to see whether interest rate cuts or hikes do materially impact investor confidence.
+
+	Cmnt:	This idea would be the most pragmatic since index prices are more readily available data. However, to finance students	and professionals, the question might feel a little vanilla. Hence, I am trying to analyze the relationship between the specific magnitude of the rate changes to the changes in asset prices, in order to go beyond answering whether a relationship is just "positive" or "negative," but how sensitive the outputs are to the inputs. This is the idea I will most likely move forward with.
+
+
+Idea 2:
+		 
+	Topic:	How long does it take for different-industry companies' EBITDA and earnings multiples to hit market-bottom, and then recover 10%, 20%, 30% ... 80%, 90%, and 100% of its previous high?  
+
+	Data:	Data is available (most-likely) on Bloomberg Terminals (Provided at Johnson School but currently unavailable) or paid services. Also, available on Capital IQ (available) but would need to collect 
+
+	Cmnt:	This idea seems more interesting than idea 1 but data collection is probably much more difficult and less reliable from available sources.
+
+
+Idea 3:
+
+	Topic:	Growth of the private markets
+
+	Data:	Different types of asset classes and amount of capital allocated to (respective market size) the following alternative asset classes: Private Equity/ Private Credit/ Infrastructure / Real Estate) in comparison to Return on traditional publicly traded assets (investment grade & high-yield corporate bonds, public quities e.g. S&P)
+
+	Cmnt:	Accurate data for the private markets is probably very scarce and unaccessible. Monthly/ annual data for the past two decades might be available but the dataset size might be too small.
